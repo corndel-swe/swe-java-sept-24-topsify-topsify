@@ -1,11 +1,2 @@
 node_modules
 .env
-# IntelliJ
-.idea
-*.iws
-*.iml
-*.ipr
-/out/
-.DS_Store
-src/.DS_Store
-
